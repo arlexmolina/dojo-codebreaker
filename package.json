@@ -1,0 +1,19 @@
+{
+    "name": "dojo-codebreaker",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest --coverage",
+        "start": "node server.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^26.0.1",
+        "supertest": "^4.0.2"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
